@@ -1,0 +1,9 @@
+# Data - course-provided. Delete this line if you may redistribute it.
+insurance_claims.csv
+
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
