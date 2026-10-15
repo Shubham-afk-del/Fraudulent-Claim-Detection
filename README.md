@@ -215,6 +215,10 @@ jupyter notebook Fraudulent_Claim_Detection_Shubham_Kumar_Singh.ipynb
 be in the same directory as the notebook. Run all cells top to bottom, since later cells
 depend on earlier state.
 
+## License
+
+My code and analysis here are under the [MIT license](LICENSE). The course dataset and the original case-study brief belong to upGrad and IIIT Bangalore and are not covered by it.
+
 ---
 
 **Shubham Kumar Singh**, MSc Artificial Intelligence and Computer Science, Northeastern University London
