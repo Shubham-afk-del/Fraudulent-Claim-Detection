@@ -221,4 +221,4 @@ depend on earlier state.
 
 Originally completed as a case study in the upGrad and IIIT Bangalore Data Science Programme.
 
-[LinkedIn](https://linkedin.com/in/shubham-singh-00236a191) · [GitHub](https://github.com/Shubham-afk-del)
+[LinkedIn](https://www.linkedin.com/in/shubham-kumar-singh-00236a191) · [GitHub](https://github.com/Shubham-afk-del)
